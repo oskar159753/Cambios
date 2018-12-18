@@ -17,6 +17,8 @@ public class Cambios {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("ghreg");
+        System.out.println("Segunda linea");
+        System.out.println("tercera linea");
     }
     
 }
